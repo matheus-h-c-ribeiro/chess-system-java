@@ -10,7 +10,7 @@ public abstract class Piece {
 		position = null;
 	}
 
-	protected Board getBord() {
+	protected Board getBoard() {
 		return board;
 	}
 	
